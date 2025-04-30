@@ -151,6 +151,15 @@ const participants = [
       description: "Conductor de television que se ha vuelto muy controversial en la televisión mexicana.",
       votesToSave: 0,
       status: "active"
+    },
+    {
+      "ID": 18,
+      "name": "Cruvy",
+      "age": 34,
+      "photo": "https://randomuser.me/api/portraits/women/9.jpg",
+      "description": "Conductora de television.",
+      "votesToSave": 0,
+      "status": "active"
     }
   ];
 
